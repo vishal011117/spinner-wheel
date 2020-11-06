@@ -1,0 +1,24 @@
+{
+  "name": "spinner-wheel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal011117/spinner-wheel.git"
+  },
+  "keywords": [],
+  "author": "vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal011117/spinner-wheel/issues"
+  },
+  "homepage": "https://github.com/vishal011117/spinner-wheel#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  }
+}
